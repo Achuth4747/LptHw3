@@ -1,0 +1,6 @@
+print("hello world")
+print("i love typing this")
+print("heyy!! this is fun")
+print("i love to do this")
+print("i love ths very much")
+print("i said do not ouch this")
